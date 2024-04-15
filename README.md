@@ -1,4 +1,4 @@
-![image](https://github.com/hvtienprotv84/1897-huynhvinhtien/assets/153743337/b87ec61c-15dd-468f-b06f-cf05aa33649a)# Thông Tin Thành Viên
+# Thông Tin Thành Viên
 * Huỳnh Vĩnh Tiến
 * 2011061897
 * 20DTHB2
@@ -8,4 +8,5 @@
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif" alt="bootstrap" width="100" height="80"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" alt="bootstrap" width="80" height="80"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrwLTVVljw19zE8EVH4Ix7_Ea8xgUaqD3x7IWH6JborEZD6TZJMv0cUJ7M-Rxrf5uYvjo&usqp=CAU" alt="bootstrap" width="80" height="80"/> </a>
 </p>
-![image](https://github.com/hvtienprotv84/1897-huynhvinhtien/assets/153743337/29667858-6a1e-4eb8-9a26-284c9044ee69)
+![image](https://github.com/hvtienprotv84/1897-huynhvinhtien/assets/153743337/5a43e83f-5ab9-4026-8eca-d0b16372ce5d)
+
